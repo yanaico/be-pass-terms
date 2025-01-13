@@ -114,6 +114,17 @@ Requests can be sent to bepassfeedback@gmail.com. Be-Pass will respond to reques
 ________________________________________
 7. Account Deletion
 Once a User deletes their account, they will no longer be able to recover it. Be-Pass will permanently delete the User’s personally identifiable data within 90 days. However, certain residual data may remain in backup systems for up to 180 days. Data shared with other Users or made public (e.g., reviews, feedback, chat, booking) may remain visible.
+7.1 Data Retention for Records and Classes
+Even after a User deletes their account, certain information may remain in the system for purposes such as record-keeping, legal obligations, and maintaining the integrity of existing class-related data. Specifically:
+1.	Class Participation Records
+If a User has participated in classes, their participation records (e.g., attendance, feedback, or role in the class) may remain in the system to preserve historical data and ensure the continuity of service for other Users, such as freelancers managing those classes.
+2.	Anonymization of Personal Data
+In such cases, the User's personal data will be anonymized where possible (e.g., their name and contact details will be replaced or marked as "Deleted User") to maintain privacy while ensuring that essential information related to classes is retained.
+3.	Purpose
+The retention of class-related data is necessary to:
+o	Provide accurate records for class management.
+o	Comply with legal and contractual obligations.
+o	Maintain the integrity of the service for other Users, including freelancers and clients who rely on these records.
 ________________________________________
 8. Data Security
 Be-Pass implements technical and organizational measures to protect personal data from unauthorized access, alteration, and deletion.
