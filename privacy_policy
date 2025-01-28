@@ -1,6 +1,6 @@
 Be-Pass Privacy Policy
 
-Effective date: Jan 09, 2025
+Effective date: Jan 28, 2025
 This Privacy Policy explains what personal data is collected when you (referred to as "you" or "User") use the Be-Pass website and/or mobile application (referred to as "we," "us," or "Be-Pass") and the services provided through it (together referred to as the “Service”), and how this personal data will be used and shared.
 Please read the Privacy Policy carefully before using our Service. We may update this Privacy Policy from time to time, and in such cases, we will notify you about the changes. Our Terms of Service are available here: https://www.be-pass.com/termsofservice/.
 By using the Service, you agree and assert that you have read, understood, and agreed to this Privacy Policy, and you confirm that you are of legal age (18 years old).
@@ -125,6 +125,15 @@ The retention of class-related data is necessary to:
 o	Provide accurate records for class management.
 o	Comply with legal and contractual obligations.
 o	Maintain the integrity of the service for other Users, including freelancers and clients who rely on these records.
+7.2 Additional Considerations for Classes, Branches, and User Roles
+1.	Class Status Changes (e.g., Canceled or Deleted Classes)
+If a class is canceled or deleted, certain records related to the class, such as participant details and attendance, will be retained to maintain historical data and service integrity for other Users (e.g., freelancers or branch owners managing the classes). Personal details may be anonymized when no longer required for operational or legal purposes.
+2.	Branch Management Data
+Data related to branches, such as participant roles and branch-specific information, may be retained even when branches or associated classes are deleted or modified. This ensures continuity of service for branch owners and participants. Personal data will be anonymized where feasible.
+3.	Ownership Transitions
+In cases where branch or class ownership is transferred between Users, relevant data (e.g., class records, participant details) will also be transferred to ensure service continuity. Be-Pass will process this data in compliance with the Privacy Policy and applicable legal obligations.
+4.	Roles and Responsibilities
+Users with specific roles, such as CLASS_OWNER or BRANCH_OWNER, may have access to manage or delete data associated with their classes or branches. However, any such actions will comply with the data retention policies outlined here, and certain information may still be retained for legal, operational, or historical purposes.
 ________________________________________
 8. Data Security
 Be-Pass implements technical and organizational measures to protect personal data from unauthorized access, alteration, and deletion.
